@@ -1,7 +1,5 @@
 # Tkinter_Student_Management_System
 Python Tkinter based Student Management System with MySQL database.
-# Tkinter Student Management System
-
 A simple Python GUI project built using Tkinter and MySQL.
 
 ## Features
